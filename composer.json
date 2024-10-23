@@ -8,7 +8,7 @@
         "alfanumérico"
 	],
 	"homepage" : "https://github.com/fgsl/cnpj",
-	"license" : " GPL-3.0 license",
+	"license" : " GPL-3.0-or-later",
 	"autoload" : {
 		"psr-4" : {
 			"Fgsl\\CNPJ\\" : "src/Fgsl/CNPJ",
